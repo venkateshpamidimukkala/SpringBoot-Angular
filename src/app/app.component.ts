@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'employee-frontend';
+  title = 'Spring Boot + Angular 13 Full Stack Developement App';
 }
